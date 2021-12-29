@@ -1,7 +1,7 @@
 import csv
 from random import shuffle
 
-cards_csv = "C:/Users/Lucks/PycharmProjects/All_Games/Card_Games/Deck/cards.csv"
+cards_csv = "Deck_data/cards.csv"
 
 
 class Card:
